@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>nabu.misc</groupId>
 	<artifactId>keystore</artifactId>
-	<version>1.0</version>
+	<version>${nabu.misc-keystore-version}</version>
 	<name>keystore</name>
 	
 	<parent>
